@@ -1,0 +1,9 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  bird: one
+  locations: one
+
+two:
+  bird: two
+  locations: two
